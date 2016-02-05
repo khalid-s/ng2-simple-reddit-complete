@@ -1,0 +1,4 @@
+npm-debug.log
+intermediates/*.js
+intermediates/*
+intermediates/*.js.map
